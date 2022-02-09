@@ -1,22 +1,9 @@
-# Android App
+## Test Automation of Energy Australia - Web application
 
-## Getting Started
+Technology used - Kotlin, Java, Espresso, Android
 
-These instructions will help in setting the project and running it up on your local machine for test automation purpose.
-
-### Pre-requisite softwares
-
-Below softwares should be installed before project setup,
-
-* JDK 8+
-* Gradle
-* Android studio
-
-### Project setup
-
-* Open Androidstudio and import the project in this folder.
-
-* Once, the project is built then load the artifact in emulator or device of your choice.
-
-**Note** - These instructions will assist you with setup but you are free to explore tools, processes and techniques for setting up the project.
-# energy-australia-mobile-test
+### Run the test on local environment
+- `git clone https://github.com/shiveshdewangan/energy-australia-mobile-test.git`
+- `cd energy-australia-mobile-test`
+- Open the project in IntelliJ IDEA editor
+- Run the test here - `src/androidTest/java/com/energyaustralia/codingtestsample/E2ETest.kt` on IntelliJ
